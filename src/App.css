@@ -6,7 +6,7 @@ h1{
   font-family: monospace;
   text-shadow: 5px 5px 5px gray;
   background-color: red;
-  padding:20px;
+  padding:25px;
   border-radius: 5px;
   color: white;
   display: flex;
