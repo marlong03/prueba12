@@ -6,7 +6,8 @@ function App() {
     <>
     <div className='container_h1'>
       {textos.map((element,index) => 
-        <h1 key={index} >{element}</h1>
+        <h1 key={index} >{element}</h1> 
+        
       )}
     </div>
     </>
