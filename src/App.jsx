@@ -1,7 +1,7 @@
 import './App.css'
 import { useState } from 'react';
 function App() {
-  const [textos,setTextos] = useState(["Hola","Mundo","Como","estan"]);
+  const [textos,setTextos] = useState(["Hola","Mundo","Estoy", "Aqui","Como","estan"]);
   return (
     <>
     <div className='container_h1'>
